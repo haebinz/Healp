@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">nomooo</string>
+
+    <string-array name="period_options">
+        <item>일</item>
+        <item>주</item>
+        <item>월</item>
+    </string-array>
+</resources>
